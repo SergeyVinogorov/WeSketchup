@@ -1,0 +1,23 @@
+WeSketchup
+
+Minimum Marketing Feature:
+ * marketing home page
+ - collaborative painting page (basic)
+ - painty-fy the pages
+ - complex painting
+ - collaborative features
+
+User stories:
+ * hello world server
+ - hello world client
+ - support multiple browsers
+ - marketing copy
+
+Engineering tasks:
+ * automated build (lint)
+ - static code analysis
+ - continuous integration
+ - server-side testing
+ - client-side testing
+
+
